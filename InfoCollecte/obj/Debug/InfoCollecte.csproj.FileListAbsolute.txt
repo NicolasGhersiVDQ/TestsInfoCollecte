@@ -1,0 +1,11 @@
+C:\Users\adm-id097338\source\DotNet\Monitoring\Tests\InfoCollecte\InfoCollecte\bin\Debug\InfoCollecte.dll
+C:\Users\adm-id097338\source\DotNet\Monitoring\Tests\InfoCollecte\InfoCollecte\bin\Debug\InfoCollecte.pdb
+C:\Users\adm-id097338\source\DotNet\Monitoring\Tests\InfoCollecte\InfoCollecte\bin\Debug\nunit.framework.dll
+C:\Users\adm-id097338\source\DotNet\Monitoring\Tests\InfoCollecte\InfoCollecte\bin\Debug\nunit.framework.pdb
+C:\Users\adm-id097338\source\DotNet\Monitoring\Tests\InfoCollecte\InfoCollecte\bin\Debug\WebDriver.Support.dll
+C:\Users\adm-id097338\source\DotNet\Monitoring\Tests\InfoCollecte\InfoCollecte\bin\Debug\WebDriver.dll
+C:\Users\adm-id097338\source\DotNet\Monitoring\Tests\InfoCollecte\InfoCollecte\obj\Debug\InfoCollecte.csprojAssemblyReference.cache
+C:\Users\adm-id097338\source\DotNet\Monitoring\Tests\InfoCollecte\InfoCollecte\obj\Debug\InfoCollecte.csproj.CoreCompileInputs.cache
+C:\Users\adm-id097338\source\DotNet\Monitoring\Tests\InfoCollecte\InfoCollecte\obj\Debug\InfoCollecte.csproj.CopyComplete
+C:\Users\adm-id097338\source\DotNet\Monitoring\Tests\InfoCollecte\InfoCollecte\obj\Debug\InfoCollecte.dll
+C:\Users\adm-id097338\source\DotNet\Monitoring\Tests\InfoCollecte\InfoCollecte\obj\Debug\InfoCollecte.pdb
