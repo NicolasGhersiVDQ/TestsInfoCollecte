@@ -1,8 +1,5 @@
 pipeline {
   agent any
-  triggers {
-        cron('H 5 0 0 0')
-    }
   stages {
     stage('Checkout') {
       steps {
@@ -30,4 +27,5 @@ pipeline {
       }
     }
   }
+  properties([pipelineTriggers([cron('H 5 * * *')])])
 }
